@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Dizaynerlar",
+        "field": "dizayner"
+    },
+    {
+        "name": "Tikuvchilar",
+        "field": "tikuvchi"
+    },
+    {
+        "name": "Dazmolchilar",
+        "field": "dazmolchi"
+    },
+    {
+        "name": "Bichuvchilar",
+        "field": "bichuvchi"
+    },
+    {
+        "name": "All",
+        "field": "all"
+    }
+]

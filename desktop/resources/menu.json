@@ -1,0 +1,7 @@
+{
+  "leaf": false,
+  "children": [
+    { "text": "Dashboard", "iconCls": "x-fa fa-home", "xtype": "dashboard", "leaf": true },
+    { "text": "Charts", "iconCls": "x-fa fa-chart-pie", "xtype": "chartsview","leaf": true }
+  ]
+}

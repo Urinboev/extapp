@@ -1,0 +1,12 @@
+[
+    {"id": 1, "name": "John", "last_name": "Doe", "phone": "198931164101", "field": "dizayner", "status": true, "created_at": "09/05/22"},
+    {"id": 2, "name": "Emily", "last_name": "Clark", "phone": "198931164231", "field": "tikuvchi", "status": false, "created_at": "09/04/22"},
+    {"id": 3, "name": "Joanna", "last_name": "Armstrong", "phone": "177931164101", "field": "tikuvchi", "status": true, "created_at": "09/05/22"},
+    {"id": 4, "name": "Adele", "last_name": "Johnson", "phone": "198931164101", "field": "dazmolchi", "status": true, "created_at": "03/05/22"},
+    {"id": 5, "name": "John", "last_name": "Patel", "phone": "174731164101", "field": "dizayner", "status": false, "created_at": "21/04/22"},
+    {"id": 6, "name": "Ronald", "last_name": "Doe", "phone": "198931164342", "field": "bichuvchi", "status": true, "created_at": "09/05/22"},
+    {"id": 7, "name": "Emily", "last_name": "Peters", "phone": "198931164231", "field": "tikuvchi", "status": false, "created_at": "19/04/22"},
+    {"id": 8, "name": "Emma", "last_name": "Watson", "phone": "177931164101", "field": "tikuvchi", "status": true, "created_at": "09/05/22"},
+    {"id": 9, "name": "Anjelo", "last_name": "Johnson", "phone": "198931164101", "field": "dazmolchi", "status": true, "created_at": "03/05/22"},
+    {"id": 10, "name": "Jane", "last_name": "Ostin", "phone": "174731164101", "field": "bichuvchi", "status": false, "created_at": "21/04/22"}
+]
